@@ -2,11 +2,10 @@
 <HTML>
 <HEAD>
 </HEAD>
-<BODY BACKGROUND="fon.JPG" TEXT="000000">
+<BODY TEXT="000000">
 <P ALIGN="CENTER">
 <FONT COLOR="#008080" SIZE="7">
 <B>Расписание занятий</B></FONT><BR> <FONT SIZE="6"><I> Понедельник</I></FONT> <BR><BR>
-<IMG SRC="BUD.JPG" ALIGN="TOP">
 </P>
 <BR><BR>
 <CENTER>
