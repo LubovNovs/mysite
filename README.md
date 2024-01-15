@@ -1,7 +1,6 @@
 # mysite
 <HTML>
 <HEAD>
-<TITLE>Учебный файл HTML</TITLE>
 </HEAD>
 <BODY BACKGROUND="fon.JPG" TEXT="000000">
 <P ALIGN="CENTER">
